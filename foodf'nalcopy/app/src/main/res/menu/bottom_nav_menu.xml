@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/add_Product"
+        android:icon="@drawable/ocr_icon"
+        android:title="" />
+
+    <item
+        android:id="@+id/diet_help"
+        android:icon="@drawable/diethelp_icon"
+        android:title="" />
+
+    <item
+        android:id="@+id/my_products"
+        android:icon="@drawable/myproducts1_icon"
+        android:title="" />
+    <item
+        android:id="@+id/profile"
+        android:icon="@drawable/profile_icon"
+        android:title="" />
+
+
+
+</menu>
